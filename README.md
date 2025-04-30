@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/joshmadakor1">Mathematics</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Python</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/joshmadakor1">Mathematics</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Python</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Certifications:</h2>
 
